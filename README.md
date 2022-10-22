@@ -6,7 +6,7 @@ If you want to reach me, my email is in the GH info, but you can also get in tou
 If you're looking for some code and projects of mine, check out <https://sr.ht/~tobtobxx>. I only use GitHub to collaborate with other
 projects.
 
-My public key fingerprint is EA2342C53EBF2A2D985C416A12AC3D4752E2FA2E.
+My public key fingerprint is [1BC47C721FA5EF0352DADAF8296BD5C23B2F830E](https://keys.openpgp.org/vks/v1/by-fingerprint/1BC47C721FA5EF0352DADAF8296BD5C23B2F830E).
 <!---
 TobTobXX/TobTobXX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
